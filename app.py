@@ -5,7 +5,6 @@ import re
 import requests
 from pathlib import Path
 
-# THIS MUST BE FIRST!
 st.set_page_config(page_title="App Review RAG", layout="wide", initial_sidebar_state="expanded")
 
 # Custom CSS for better styling
